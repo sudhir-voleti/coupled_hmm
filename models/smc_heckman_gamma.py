@@ -244,6 +244,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-EOF
 
-echo "Saved: pycode/models/smc_heckman_gamma.py"
